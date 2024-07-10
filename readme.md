@@ -1,0 +1,1 @@
+This project is about mushrooms and learning about their patterns and dependencies to find the poisonous and edible ones.
