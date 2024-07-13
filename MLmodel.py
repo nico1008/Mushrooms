@@ -62,5 +62,3 @@ with torch.no_grad():
         correct += (predicted == y_batch).sum().item()
     
     print(f'Accuracy of the model on the test set: {100 * correct / total:.2f}%')
-    
-    
